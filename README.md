@@ -181,5 +181,5 @@ This day focuses on learning how to migrate applications to AWS cloud. What are 
 
 On the final day, you'll review best practices for AWS services, including security, cost optimization and performance.
 
-## Day 30: AWS Project with RDS
+## Day 30: AWS Project with RDS.
 
