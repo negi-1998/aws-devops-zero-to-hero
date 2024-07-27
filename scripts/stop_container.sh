@@ -5,7 +5,7 @@
 #!/bin/bash
 set -e
 
-Get the IDs of all running containers
+#Get the IDs of all running containers
 container_ids=$(docker ps -q)
 
 # Remove all running containers
