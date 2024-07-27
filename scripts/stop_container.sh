@@ -1,6 +1,5 @@
-# #!/bin/bash
+
 # set -e
-# #!/bin/bash
 # containerid=` docker ps | awk -F " "'{print $1}'`
 # sudo docker rm -f $containerid
 #!/bin/bash
