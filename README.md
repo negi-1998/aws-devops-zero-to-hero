@@ -12,7 +12,7 @@ Also, you will be introduced to the basics of AWS, including the core services a
 
 ## Day 2: IAM (Identity and Access Management)
 
-You will explore IAM, which is used for managing access to AWS resources. You'll learn how to create IAM users, groups, and roles, and how to apply permissions and security best practices to ensure proper access control.
+You will explore IAM, which is used for managing access to AWS resources. You'll learn how to create IAM users, groups, and roles, and how to apply permissions and security best practices to ensure proper access control. 
 
 ## Day 3: EC2 Instances
 
